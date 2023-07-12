@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "chocolate";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/chocolate/chocolate.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/chocolate/chocolate.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/chocolate/chocolate.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/chocolate/chocolate.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/chocolate/chocolate.ttf") format("truetype");
+    font-display: swap;
+} 
+.chocolate {
+    font-family: "chocolate";
+}
